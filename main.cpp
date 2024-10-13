@@ -1,3 +1,6 @@
+// Act 3.2 - Árbol Heap: Implementando una fila priorizada
+// Elizabeth Jauregui Zarate (A01253381)
+
 /* Este programa permite al usuario interactuar con una cola priorizada. 
    Los usuarios pueden agregar elementos, eliminar el de mayor prioridad, 
    mostrar el elemento con mayor prioridad, verificar si la cola está vacía 
